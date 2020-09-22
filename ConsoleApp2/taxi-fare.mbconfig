@@ -1,0 +1,20 @@
+{
+  "ScenarioTabContext": {
+    "CurrentScenario": {
+      "ScenarioId": "regression"
+    }
+  },
+  "EnvironmentTabContext": {
+    "TrainingTypeSelectedIndex": 0
+  },
+  "DataTabContext": {
+    "SelectedDataSourceName": "<SQL datasource>",
+    "FileName": "C:\\Users\\xiaoyuz\\Desktop\\taxi-fare-train.csv"
+  },
+  "PreviousPageTab": "TrainTab",
+  "SelectedNavigationTabIndex": 3,
+  "CurrentScenario": {
+    "ScenarioId": "regression"
+  },
+  "CompletedTab": 4
+}
